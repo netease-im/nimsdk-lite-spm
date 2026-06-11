@@ -75,14 +75,14 @@ let package = Package(
             path: "Sources/FTS",
             linkerSettings: commonLinkerSettings
         ),
-        remoteBinary("NIMSDK", url: "https://yx-web-nosdn.netease.im/package/1776052504251/NIM_iOS_SDK_v10.9.81_f330cb3/NIMSDK.xcframework.zip", checksum: "71569f78d00ee9ef01b731bfe7cd492831913382ca9521298d6d7eaf685682ea"),
-        remoteBinary("NIMSocketRocket", url: "https://yx-web-nosdn.netease.im/package/1776052504251/NIM_iOS_SDK_v10.9.81_f330cb3/NIMSocketRocket.xcframework.zip", checksum: "9daf22aa668b03ae93bf1a149a7e180d955c0888d16961b77f29a6c0e1b892b2"),
-        remoteBinary("NIMQuic", url: "https://yx-web-nosdn.netease.im/package/1776052504251/NIM_iOS_SDK_v10.9.81_f330cb3/NIMQuic.xcframework.zip", checksum: "efc728bd58d06e07a1e658079a112820b684c310effe7ddcc0cb3be82a923307"),
-        remoteBinary("NIMNOS", url: "https://yx-web-nosdn.netease.im/package/1776052504251/NIM_iOS_SDK_v10.9.81_f330cb3/NIMNOS.xcframework.zip", checksum: "e67e221488e3bcf2c1c6ea3af44306374aad8a61a319103e359d276f271a2c81"),
-        remoteBinary("NIMFCS", url: "https://yx-web-nosdn.netease.im/package/1776052504251/NIM_iOS_SDK_v10.9.81_f330cb3/NIMFCS.xcframework.zip", checksum: "9e921f016196e540bbf07db8bb8b938ab3f2b3de108cb6734c523975e517a3e4"),
-        remoteBinary("NIMAWSCore", url: "https://yx-web-nosdn.netease.im/package/1776052504251/NIM_iOS_SDK_v10.9.81_f330cb3/NIMAWSCore.xcframework.zip", checksum: "93ce0d3476c2a9cbc6c93b0337ab98129353c07b9bdb847a14891436167620d5"),
-        remoteBinary("NIMAWSS3", url: "https://yx-web-nosdn.netease.im/package/1776052504251/NIM_iOS_SDK_v10.9.81_f330cb3/NIMAWSS3.xcframework.zip", checksum: "a4331afbde2c6565325ec927c289063b9ac9da155e4f6d322e92054a04b2d3f7"),
-        remoteBinary("NIMQChat", url: "https://yx-web-nosdn.netease.im/package/1776052504251/NIM_iOS_SDK_v10.9.81_f330cb3/NIMQChat.xcframework.zip", checksum: "e845269c05e5b2b0170cc5b439b755d1b729c69ac798c6a9cb19c4cdd8625515"),
-        remoteBinary("NIMDBEx", url: "https://yx-web-nosdn.netease.im/package/1776052504251/NIM_iOS_SDK_v10.9.81_f330cb3/NIMDBEx.xcframework.zip", checksum: "12c0de701085a81f5abafd3d11bb24ac57e5c4eb4a2dd20063a19e05bef0c9a9"),
+        remoteBinary("NIMSDK", url: "https://yx-web-nosdn.netease.im/package/1781151024777/NIM_iOS_SDK_v10.9.90_a2e6c94/NIMSDK.xcframework.zip", checksum: "2b22f9772e2cbcdc71f9a2a50ad930f0f58f6043d2d554caef86fe52575709e3"),
+        remoteBinary("NIMSocketRocket", url: "https://yx-web-nosdn.netease.im/package/1781151024777/NIM_iOS_SDK_v10.9.90_a2e6c94/NIMSocketRocket.xcframework.zip", checksum: "ece6bd0bf98c627f12a3b5e0e1f2ade43a3183c10e0431e249f944c85f1caeb7"),
+        remoteBinary("NIMQuic", url: "https://yx-web-nosdn.netease.im/package/1781151024777/NIM_iOS_SDK_v10.9.90_a2e6c94/NIMQuic.xcframework.zip", checksum: "b72b27a248417c70e48a59227cc1d81a23396d928c8995c96be923009212eae9"),
+        remoteBinary("NIMNOS", url: "https://yx-web-nosdn.netease.im/package/1781151024777/NIM_iOS_SDK_v10.9.90_a2e6c94/NIMNOS.xcframework.zip", checksum: "bf67d656862d0d9120da1a888889f29b763a1e913ed9e61fd28de8725c4bbdda"),
+        remoteBinary("NIMFCS", url: "https://yx-web-nosdn.netease.im/package/1781151024777/NIM_iOS_SDK_v10.9.90_a2e6c94/NIMFCS.xcframework.zip", checksum: "e609218681d9aee34a95c8a9a1f2b1afb88557239e219f9b53bb518b7361f3d8"),
+        remoteBinary("NIMAWSCore", url: "https://yx-web-nosdn.netease.im/package/1781151024777/NIM_iOS_SDK_v10.9.90_a2e6c94/NIMAWSCore.xcframework.zip", checksum: "fb8a18a41d3e35b597f427acf34c99c4e1935e7c79b144f7c73a78d8d157e7ea"),
+        remoteBinary("NIMAWSS3", url: "https://yx-web-nosdn.netease.im/package/1781151024777/NIM_iOS_SDK_v10.9.90_a2e6c94/NIMAWSS3.xcframework.zip", checksum: "c54fef5e75281f6c27700e4f0bfc4b201670d71f3d50dff79650c5ede6b12908"),
+        remoteBinary("NIMQChat", url: "https://yx-web-nosdn.netease.im/package/1781151024777/NIM_iOS_SDK_v10.9.90_a2e6c94/NIMQChat.xcframework.zip", checksum: "346496caec57a39737497404301b7956b3067ffe9ef6725d384aa459628e3616"),
+        remoteBinary("NIMDBEx", url: "https://yx-web-nosdn.netease.im/package/1781151024777/NIM_iOS_SDK_v10.9.90_a2e6c94/NIMDBEx.xcframework.zip", checksum: "825993eb6beb90b03e5975b6f7c003762ff00f91be980700e4e6b2a403feb5cd"),
     ]
 )
