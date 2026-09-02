@@ -66,13 +66,13 @@ let package = Package(
             path: "Sources/QChat",
             linkerSettings: commonLinkerSettings
         ),
-        remoteBinary("NIMSDK", url: "https://yx-web-nosdn.netease.im/package/1788336365707/NIM_iOS_SDK_v9.21.14_8fe4312/NIMSDK.xcframework.zip", checksum: "9bc690406039563b487fbd13d262c7cb01eeacc20dd67975d1af149dd35d0639"),
-        remoteBinary("NIMSocketRocket", url: "https://yx-web-nosdn.netease.im/package/1788336365707/NIM_iOS_SDK_v9.21.14_8fe4312/NIMSocketRocket.xcframework.zip", checksum: "e45c21b3ead73205e34437f46ff444e656ed9629ef59a8c296d12f3771c992e1"),
-        remoteBinary("NIMQuic", url: "https://yx-web-nosdn.netease.im/package/1788336365707/NIM_iOS_SDK_v9.21.14_8fe4312/NIMQuic.xcframework.zip", checksum: "d7079c689f1e13b3a2d874ba7dbaef639a4c2809a86fa3ad3e6cddbe75381c08"),
-        remoteBinary("NIMNOS", url: "https://yx-web-nosdn.netease.im/package/1788336365707/NIM_iOS_SDK_v9.21.14_8fe4312/NIMNOS.xcframework.zip", checksum: "dc6e5cbf84cd27293c0038e98300b006fb355468301dd5252624f6aa634a3846"),
-        remoteBinary("NIMFCS", url: "https://yx-web-nosdn.netease.im/package/1788336365707/NIM_iOS_SDK_v9.21.14_8fe4312/NIMFCS.xcframework.zip", checksum: "0701861ebc7ac83ec947ee467567287e94b54b4286e2959ddee620f519cd0fbe"),
-        remoteBinary("NIMAWSCore", url: "https://yx-web-nosdn.netease.im/package/1788336365707/NIM_iOS_SDK_v9.21.14_8fe4312/NIMAWSCore.xcframework.zip", checksum: "16f5dcc8f112bcde241bd0fcfc3226f35fef5f99f9059d834f4ce45b19e7363b"),
-        remoteBinary("NIMAWSS3", url: "https://yx-web-nosdn.netease.im/package/1788336365707/NIM_iOS_SDK_v9.21.14_8fe4312/NIMAWSS3.xcframework.zip", checksum: "7ff6e00eac5dc3e91d2f2690e6e7f3f4a3ff9e5a4ce942f24ad75937b36f7a55"),
-        remoteBinary("NIMQChat", url: "https://yx-web-nosdn.netease.im/package/1788336365707/NIM_iOS_SDK_v9.21.14_8fe4312/NIMQChat.xcframework.zip", checksum: "9fc9b46d060259c36209b63f8f34881ec1baf0593e29d3d51292f3d6059f7f5f"),
+        remoteBinary("NIMSDK", url: "https://yx-web-nosdn.netease.im/package/1788336521939/NIM_iOS_SDK_v9.21.15_561d0e9/NIMSDK.xcframework.zip", checksum: "991da5dbff09fee73356bbda9e20da95717c73ed5d7b273c21ec154ae25dabe2"),
+        remoteBinary("NIMSocketRocket", url: "https://yx-web-nosdn.netease.im/package/1788336521939/NIM_iOS_SDK_v9.21.15_561d0e9/NIMSocketRocket.xcframework.zip", checksum: "71c3b05f66cc0be4d6c04dd04d2176247fdcee2d758edb3eaedf3cc954959d66"),
+        remoteBinary("NIMQuic", url: "https://yx-web-nosdn.netease.im/package/1788336521939/NIM_iOS_SDK_v9.21.15_561d0e9/NIMQuic.xcframework.zip", checksum: "02e37bd4634c27e99f2850c81a9b9ee5fa05232c1af42f05fe69d225fedec074"),
+        remoteBinary("NIMNOS", url: "https://yx-web-nosdn.netease.im/package/1788336521939/NIM_iOS_SDK_v9.21.15_561d0e9/NIMNOS.xcframework.zip", checksum: "536cb67d8427f9bc0bb86e200ce8b49693dde76b260d8603a465cf104fad99c6"),
+        remoteBinary("NIMFCS", url: "https://yx-web-nosdn.netease.im/package/1788336521939/NIM_iOS_SDK_v9.21.15_561d0e9/NIMFCS.xcframework.zip", checksum: "caf8511c57451e5e15725f93cb55ef361f9e076c334d75907188bbc23096e7c6"),
+        remoteBinary("NIMAWSCore", url: "https://yx-web-nosdn.netease.im/package/1788336521939/NIM_iOS_SDK_v9.21.15_561d0e9/NIMAWSCore.xcframework.zip", checksum: "c4c37274427f909939f0af8d8a4d299c74dbf9eb3a850b48c14aae7c66ee6054"),
+        remoteBinary("NIMAWSS3", url: "https://yx-web-nosdn.netease.im/package/1788336521939/NIM_iOS_SDK_v9.21.15_561d0e9/NIMAWSS3.xcframework.zip", checksum: "e04c8869bf4b2bb4095cf9e3548c3f19572c591174a82b1fd314ae8a16f42ae7"),
+        remoteBinary("NIMQChat", url: "https://yx-web-nosdn.netease.im/package/1788336521939/NIM_iOS_SDK_v9.21.15_561d0e9/NIMQChat.xcframework.zip", checksum: "37b1a817571869ef8debd3b03512cbd89b0f0a8f707e801d2d721fff22dc985f"),
     ]
 )
